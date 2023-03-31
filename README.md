@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**spamdalfz/spamdalfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Corey! 🙂
+I am a Software Engineer in the Pacific NW. Computer science enthusiast skilled in full-stack development and Java. A naturally curious individual who loves problem-solving, continuous learning, and appreciating life's simple pleasures.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My Tech Stack
+
+Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL Frameworks & Libraries: React (Hook, Redux), Vue, jQuery, Bootstrap, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Recharts.js, Tools: MongoDB, MySQL, Git, GitHub, Command Line, Heroku, Jest, VSCode
+
+
+
+⛓ My Links
+
+LinkedIn: https://www.linkedin.com/in/corey-vasser/
+
+Portfolio: https://spamdalfz.github.io/portfolio-project/
+
+✉️ Get in contact with me
+
+Email: coreyvasser@gmail.com
