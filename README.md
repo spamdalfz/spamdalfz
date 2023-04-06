@@ -1,6 +1,6 @@
 ![Alt Text](./banner.gif)
 
-### Hi there 👋
+# Hi There! 👋
 
 I'm Corey! 🙂
 I am a Software Engineer in the Pacific NW. I am computer science enthusiast skilled in full-stack development and JavaScript. A naturally curious individual who loves problem-solving, continuous learning, and appreciating life's simple pleasures.
