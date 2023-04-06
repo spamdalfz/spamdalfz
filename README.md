@@ -1,4 +1,4 @@
-![Alt Text](spammdalfz/Spamdalf.gif)
+![Alt Text](./banner.gif)
 
 ### Hi there 👋
 
