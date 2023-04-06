@@ -12,9 +12,9 @@ Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL Frameworks & Libraries: React
 
 ⛓ My Links
 
-LinkedIn: https://www.linkedin.com/in/corey-vasser/
+[LinkedIn](https://www.linkedin.com/in/corey-vasser/)
 
-Portfolio: https://spamdalfz.github.io/portfolio-project/
+[Portfolio](https://spamdalfz.github.io/portfolio-project/)
 
 ✉️ Get in contact with me
 
