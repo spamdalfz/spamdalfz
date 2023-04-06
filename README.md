@@ -1,4 +1,4 @@
-![Alt Text](spammdalfz/Spamdalf)
+![Alt Text](spammdalfz/Spamdalf.gif)
 
 ### Hi there 👋
 
