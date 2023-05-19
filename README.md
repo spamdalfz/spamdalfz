@@ -8,9 +8,9 @@ I am a Web Developer living in the Pacific NW. I am computer science enthusiast 
 
 ## My Tech Stack 💻 
 
-- **Languages:** JavaScript (AJAX, JSON), HTML, CSS, SQL 
-- **Frameworks & Libraries:** jQuery, Bootstrap, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, TailwindCSS
-- **Tools:** MongoDB, MySQL, CLI, Heroku, Jest, VSCode
+- **Languages:** JavaScript (AJAX, JSON), HTML, CSS, SQL,
+- **Frameworks & Libraries:** jQuery, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Bootstrap, TailwindCSS
+- **Tools:** MongoDB, MySQL, NoSQL, CLI, Heroku, Jest, VSCode
 
 
 
