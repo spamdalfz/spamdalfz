@@ -18,7 +18,7 @@ I am a Web Developer living in the Pacific NW. I am a computer science enthusias
 
 [LinkedIn](https://www.linkedin.com/in/corey-vasser/)
 
-[Portfolio](https://www.cvasserportfolio.com/)
+[Portfolio](https://react-portfolio-sigma-plum.vercel.app/portfolio)
 
 ## Get in contact with me ✉️ 
 
